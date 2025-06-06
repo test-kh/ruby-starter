@@ -29,7 +29,7 @@ def main(context)
 
   return context.res.json(
     {
-      "motto": "Build like a team of hundreds_",
+      "motto": "Build like a team of hundreds___",
       "learn": "https://appwrite.io/docs",
       "connect": "https://appwrite.io/discord",
       "getInspired": "https://builtwith.appwrite.io",
